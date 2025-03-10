@@ -1,13 +1,13 @@
-# E-Commerce Sales Analysis Using MySQL
+## E-Commerce Sales Analysis Using MySQL
 
-## Objective
+### Objective
 The goal of this project is to analyze an e-commerce sales dataset using MySQL, perform data cleaning, handle missing values, remove duplicates, and extract insights related to customer behavior, order trends, and sales performance.
 
-## Dataset Used
+### Dataset Used
 (https://github.com/Shebin10/E-commerce-Sales-SQL/blob/main/e_commerce_sales_data.csv)
 
 
-## Process
+### Process
 Created a database (ecommerce_db) and imported the dataset.
 
 Removed duplicate records based on customer ID and order date.
@@ -18,5 +18,5 @@ Added a new column (repeat_buyer) to identify customers who made multiple purcha
 
 Created a cleaned version of the dataset and exported it for further use.
 
-## Tools Used
+### Tools Used
 MySQL
