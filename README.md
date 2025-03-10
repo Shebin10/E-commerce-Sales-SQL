@@ -9,9 +9,13 @@ The goal of this project is to analyze an e-commerce sales dataset using MySQL, 
 
 ## Process
 Created a database (ecommerce_db) and imported the dataset.
+
 Removed duplicate records based on customer ID and order date.
+
 Handled missing values using the most frequent region and shipping status and filled missing age values with the average age.
+
 Added a new column (repeat_buyer) to identify customers who made multiple purchases.
+
 Created a cleaned version of the dataset and exported it for further use.
 
 ## Tools Used
